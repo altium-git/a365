@@ -32,10 +32,10 @@ FSMEncodingStyle=eFMSDropDownList_OneHot
 IsProjectConflictPreventionWarningsEnabled=1
 OutputPath=Unit Output files
 LogFolderPath=
-ManagedProjectGUID=EE9A49D8-FB7E-4815-B669-4A3A340C6118
-VaultGUID=60168B7A-5A34-43B4-AD5A-869BB65A5348
-ReleaseVaultName=Templates Demo
-ItemGUID=EE9A49D8-FB7E-4815-B669-4A3A340C6118
+ManagedProjectGUID=16C2A069-0AFB-441B-9916-5E333A6AA413
+VaultGUID=A57B03CA-F558-4BA8-9D7F-6620F4F466CF
+ReleaseVaultName=UW
+ItemGUID=16C2A069-0AFB-441B-9916-5E333A6AA413
 IncludeDesignInRelease=0
 
 [Preferences]
