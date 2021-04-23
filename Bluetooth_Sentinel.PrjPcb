@@ -37,7 +37,6 @@ ManagedProjectGUID=08A6FE52-816F-473C-8122-9074D4C6A5C9
 VaultGUID=2CA65130-8F62-4762-8BFE-50FBC8775678
 ReleaseVaultName=Learning
 ItemGUID=08A6FE52-816F-473C-8122-9074D4C6A5C9
-VcsMigrated=2CA65130-8F62-4762-8BFE-50FBC8775678|08A6FE52-816F-473C-8122-9074D4C6A5C9
 IncludeDesignInRelease=0
 
 [Preferences]
@@ -62,7 +61,7 @@ GenerateClassCluster=0
 DocumentUniqueId=
 
 [Document2]
-DocumentPath=Documentation.OutJob
+DocumentPath=Bluetooth Sentinel\Documentation.OutJob
 AnnotationEnabled=1
 AnnotateStartValue=1
 AnnotationIndexControlEnabled=0
@@ -79,7 +78,7 @@ GenerateClassCluster=0
 DocumentUniqueId=
 
 [Document3]
-DocumentPath=Assembly.OutJob
+DocumentPath=Bluetooth Sentinel\Assembly.OutJob
 AnnotationEnabled=1
 AnnotateStartValue=1
 AnnotationIndexControlEnabled=0
@@ -96,7 +95,7 @@ GenerateClassCluster=0
 DocumentUniqueId=
 
 [Document4]
-DocumentPath=Fabrication.OutJob
+DocumentPath=Bluetooth Sentinel\Fabrication.OutJob
 AnnotationEnabled=1
 AnnotateStartValue=1
 AnnotationIndexControlEnabled=0
@@ -113,7 +112,7 @@ GenerateClassCluster=0
 DocumentUniqueId=
 
 [Document5]
-DocumentPath=Microcontroller_STM32F101.SchDoc
+DocumentPath=Bluetooth Sentinel\Microcontroller_STM32F101.SchDoc
 AnnotationEnabled=1
 AnnotateStartValue=1
 AnnotationIndexControlEnabled=0
@@ -130,7 +129,7 @@ GenerateClassCluster=0
 DocumentUniqueId=
 
 [Document6]
-DocumentPath=Host_Controller.SchDoc
+DocumentPath=Bluetooth Sentinel\Host_Controller.SchDoc
 AnnotationEnabled=1
 AnnotateStartValue=1
 AnnotationIndexControlEnabled=0
@@ -147,7 +146,7 @@ GenerateClassCluster=0
 DocumentUniqueId=AZKHBCCC
 
 [Document7]
-DocumentPath=Bluetooth_Sentinel.SchDoc
+DocumentPath=Bluetooth Sentinel\Bluetooth_Sentinel.SchDoc
 AnnotationEnabled=1
 AnnotateStartValue=1
 AnnotationIndexControlEnabled=0
@@ -164,7 +163,7 @@ GenerateClassCluster=0
 DocumentUniqueId=
 
 [Document8]
-DocumentPath=Bluetooth.SchDoc
+DocumentPath=Bluetooth Sentinel\Bluetooth.SchDoc
 AnnotationEnabled=1
 AnnotateStartValue=1
 AnnotationIndexControlEnabled=0
@@ -181,7 +180,7 @@ GenerateClassCluster=0
 DocumentUniqueId=
 
 [Document9]
-DocumentPath=Bluetooth_Sentinel.PcbDoc
+DocumentPath=Bluetooth Sentinel\Bluetooth_Sentinel.PcbDoc
 AnnotationEnabled=1
 AnnotateStartValue=1
 AnnotationIndexControlEnabled=0
@@ -198,7 +197,7 @@ GenerateClassCluster=0
 DocumentUniqueId=
 
 [Document10]
-DocumentPath=Visual_LEDx6.SchDoc
+DocumentPath=Bluetooth Sentinel\Visual_LEDx6.SchDoc
 AnnotationEnabled=1
 AnnotateStartValue=1
 AnnotationIndexControlEnabled=0
@@ -215,7 +214,7 @@ GenerateClassCluster=0
 DocumentUniqueId=
 
 [Document11]
-DocumentPath=Microcontroller_STM32F101.Harness
+DocumentPath=Bluetooth Sentinel\Microcontroller_STM32F101.Harness
 AnnotationEnabled=1
 AnnotateStartValue=1
 AnnotationIndexControlEnabled=0
@@ -232,7 +231,7 @@ GenerateClassCluster=0
 DocumentUniqueId=
 
 [Document12]
-DocumentPath=Visual_LEDx6.Harness
+DocumentPath=Bluetooth Sentinel\Visual_LEDx6.Harness
 AnnotationEnabled=1
 AnnotateStartValue=1
 AnnotationIndexControlEnabled=0
@@ -249,119 +248,119 @@ GenerateClassCluster=0
 DocumentUniqueId=
 
 [DeviceSheet1]
-DocumentPath=Managed\Sheets\BF4D8EC7-45A8-4CFA-AF61-409E19898652\Debug_JTAG.SchDoc
+DocumentPath=Bluetooth Sentinel\Managed\Sheets\BF4D8EC7-45A8-4CFA-AF61-409E19898652\Debug_JTAG.SchDoc
 ClassGenCCAutoEnabled=1
 ClassGenCCAutoRoomEnabled=1
 ClassGenNCAutoScope=None
 GenerateClassCluster=0
 
 [DeviceSheet2]
-DocumentPath=Managed\Sheets\BF4D8EC7-45A8-4CFA-AF61-409E19898652\Debug_JTAG.Harness
+DocumentPath=Bluetooth Sentinel\Managed\Sheets\BF4D8EC7-45A8-4CFA-AF61-409E19898652\Debug_JTAG.Harness
 ClassGenCCAutoEnabled=1
 ClassGenCCAutoRoomEnabled=1
 ClassGenNCAutoScope=None
 GenerateClassCluster=0
 
 [DeviceSheet3]
-DocumentPath=Managed\Sheets\2C007D27-9DB2-40E7-9A59-B05D1E0767B6\Oscillator_32_768KHz.SchDoc
+DocumentPath=Bluetooth Sentinel\Managed\Sheets\2C007D27-9DB2-40E7-9A59-B05D1E0767B6\Oscillator_32_768KHz.SchDoc
 ClassGenCCAutoEnabled=1
 ClassGenCCAutoRoomEnabled=1
 ClassGenNCAutoScope=None
 GenerateClassCluster=0
 
 [DeviceSheet4]
-DocumentPath=Managed\Sheets\2C007D27-9DB2-40E7-9A59-B05D1E0767B6\Oscillator_32_768KHz.Harness
+DocumentPath=Bluetooth Sentinel\Managed\Sheets\2C007D27-9DB2-40E7-9A59-B05D1E0767B6\Oscillator_32_768KHz.Harness
 ClassGenCCAutoEnabled=1
 ClassGenCCAutoRoomEnabled=1
 ClassGenNCAutoScope=None
 GenerateClassCluster=0
 
 [DeviceSheet5]
-DocumentPath=Managed\Sheets\2F97070E-C603-4B05-BFD4-1851083FF406\3-Axis_Accelerometer.SchDoc
+DocumentPath=Bluetooth Sentinel\Managed\Sheets\2F97070E-C603-4B05-BFD4-1851083FF406\3-Axis_Accelerometer.SchDoc
 ClassGenCCAutoEnabled=1
 ClassGenCCAutoRoomEnabled=1
 ClassGenNCAutoScope=None
 GenerateClassCluster=0
 
 [DeviceSheet6]
-DocumentPath=Managed\Sheets\2F97070E-C603-4B05-BFD4-1851083FF406\3-Axis_Accelerometer.Harness
+DocumentPath=Bluetooth Sentinel\Managed\Sheets\2F97070E-C603-4B05-BFD4-1851083FF406\3-Axis_Accelerometer.Harness
 ClassGenCCAutoEnabled=1
 ClassGenCCAutoRoomEnabled=1
 ClassGenNCAutoScope=None
 GenerateClassCluster=0
 
 [DeviceSheet7]
-DocumentPath=Managed\Sheets\F6C39D47-CB37-4725-9012-5DDEBBC859DF\CR2032_Battery_Connector.SchDoc
+DocumentPath=Bluetooth Sentinel\Managed\Sheets\F6C39D47-CB37-4725-9012-5DDEBBC859DF\CR2032_Battery_Connector.SchDoc
 ClassGenCCAutoEnabled=1
 ClassGenCCAutoRoomEnabled=1
 ClassGenNCAutoScope=None
 GenerateClassCluster=0
 
 [DeviceSheet8]
-DocumentPath=Managed\Sheets\09690E6F-4207-4F62-957D-F0FA530C2929\Oscillator_16MHz.SchDoc
+DocumentPath=Bluetooth Sentinel\Managed\Sheets\09690E6F-4207-4F62-957D-F0FA530C2929\Oscillator_16MHz.SchDoc
 ClassGenCCAutoEnabled=1
 ClassGenCCAutoRoomEnabled=1
 ClassGenNCAutoScope=None
 GenerateClassCluster=0
 
 [DeviceSheet9]
-DocumentPath=Managed\Sheets\09690E6F-4207-4F62-957D-F0FA530C2929\Oscillator_16MHz.Harness
+DocumentPath=Bluetooth Sentinel\Managed\Sheets\09690E6F-4207-4F62-957D-F0FA530C2929\Oscillator_16MHz.Harness
 ClassGenCCAutoEnabled=1
 ClassGenCCAutoRoomEnabled=1
 ClassGenNCAutoScope=None
 GenerateClassCluster=0
 
 [DeviceSheet10]
-DocumentPath=Managed\Sheets\0CCD17CC-8ECF-43DE-B8D9-EA6F85D8D2D7\Bluetooth_CSR1010.SchDoc
+DocumentPath=Bluetooth Sentinel\Managed\Sheets\0CCD17CC-8ECF-43DE-B8D9-EA6F85D8D2D7\Bluetooth_CSR1010.SchDoc
 ClassGenCCAutoEnabled=1
 ClassGenCCAutoRoomEnabled=1
 ClassGenNCAutoScope=None
 GenerateClassCluster=0
 
 [DeviceSheet11]
-DocumentPath=Managed\Sheets\0CCD17CC-8ECF-43DE-B8D9-EA6F85D8D2D7\Bluetooth_CSR1010.Harness
+DocumentPath=Bluetooth Sentinel\Managed\Sheets\0CCD17CC-8ECF-43DE-B8D9-EA6F85D8D2D7\Bluetooth_CSR1010.Harness
 ClassGenCCAutoEnabled=1
 ClassGenCCAutoRoomEnabled=1
 ClassGenNCAutoScope=None
 GenerateClassCluster=0
 
 [DeviceSheet12]
-DocumentPath=Managed\Sheets\2539ACB4-F009-42D5-B2D5-99ABFB5A0397\512KBits_I2C_EEPROM.SchDoc
+DocumentPath=Bluetooth Sentinel\Managed\Sheets\2539ACB4-F009-42D5-B2D5-99ABFB5A0397\512KBits_I2C_EEPROM.SchDoc
 ClassGenCCAutoEnabled=1
 ClassGenCCAutoRoomEnabled=1
 ClassGenNCAutoScope=None
 GenerateClassCluster=0
 
 [DeviceSheet13]
-DocumentPath=Managed\Sheets\2539ACB4-F009-42D5-B2D5-99ABFB5A0397\512KBits_I2C_EEPROM.Harness
+DocumentPath=Bluetooth Sentinel\Managed\Sheets\2539ACB4-F009-42D5-B2D5-99ABFB5A0397\512KBits_I2C_EEPROM.Harness
 ClassGenCCAutoEnabled=1
 ClassGenCCAutoRoomEnabled=1
 ClassGenNCAutoScope=None
 GenerateClassCluster=0
 
 [DeviceSheet14]
-DocumentPath=Managed\Sheets\E18315AA-E212-45B3-81D4-A8A61037C5E7\Balanced_LC_Filter.SchDoc
+DocumentPath=Bluetooth Sentinel\Managed\Sheets\E18315AA-E212-45B3-81D4-A8A61037C5E7\Balanced_LC_Filter.SchDoc
 ClassGenCCAutoEnabled=1
 ClassGenCCAutoRoomEnabled=1
 ClassGenNCAutoScope=None
 GenerateClassCluster=0
 
 [DeviceSheet15]
-DocumentPath=Managed\Sheets\BF116FA4-AD44-42AD-8E2D-90FE983B8F27\Debug_SDIO.SchDoc
+DocumentPath=Bluetooth Sentinel\Managed\Sheets\BF116FA4-AD44-42AD-8E2D-90FE983B8F27\Debug_SDIO.SchDoc
 ClassGenCCAutoEnabled=1
 ClassGenCCAutoRoomEnabled=1
 ClassGenNCAutoScope=None
 GenerateClassCluster=0
 
 [DeviceSheet16]
-DocumentPath=Managed\Sheets\BF116FA4-AD44-42AD-8E2D-90FE983B8F27\Debug_SDIO.Harness
+DocumentPath=Bluetooth Sentinel\Managed\Sheets\BF116FA4-AD44-42AD-8E2D-90FE983B8F27\Debug_SDIO.Harness
 ClassGenCCAutoEnabled=1
 ClassGenCCAutoRoomEnabled=1
 ClassGenNCAutoScope=None
 GenerateClassCluster=0
 
 [DeviceSheet17]
-DocumentPath=Managed\Sheets\8578F6BC-E446-47E8-98EF-EC997008D7C4\Red_LED.SchDoc
+DocumentPath=Bluetooth Sentinel\Managed\Sheets\8578F6BC-E446-47E8-98EF-EC997008D7C4\Red_LED.SchDoc
 ClassGenCCAutoEnabled=1
 ClassGenCCAutoRoomEnabled=1
 ClassGenNCAutoScope=None
